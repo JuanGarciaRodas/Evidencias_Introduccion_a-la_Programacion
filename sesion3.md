@@ -160,7 +160,7 @@ En cuanto al estilo, el CSS define reglas para la apariencia visual del sitio:
 
 # Solucion
 
-Lin para ingresar a la pagina [link] (file:///C:/Users/Juan%20Carlos/OneDrive/Escritorio/Actividad%204%20Juan%20Carlos%20Garcia/index.html)
+Lin para ingresar a la pagina [link](file:///C:/Users/Juan%20Carlos/OneDrive/Escritorio/Actividad%204%20Juan%20Carlos%20Garcia/index.html).
 
  ```html
 

@@ -18,5 +18,8 @@
 
 ## Solucion
 
-[Link](file:///C:/Users/Juan%20Carlos/OneDrive/Escritorio/ACTIVIDAD%203%20JUAN%20CARLOS%20GARCIA%20RODAS/Index.html "Mi Primer sitio Web")
+[Link][def]
 
+
+
+[def]: file:///C:/Users/Juan%20Carlos/OneDrive/Escritorio/ACTIVIDAD%203%20JUAN%20CARLOS%20GARCIA%20RODAS/Index.html "Mi Primer sitio Web"

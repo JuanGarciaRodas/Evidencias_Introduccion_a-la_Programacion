@@ -19,6 +19,6 @@
 
 # SOLUCION
 
-[actividad12] (https://juangarciarodas.github.io/evaluacionM2/)
+Enlace del ejercicio [https://juangarciarodas.github.io/evaluacionM2/]
 
 

@@ -102,11 +102,17 @@ La propiedad border-radius de CSS3 nos permite redondear los bordes de las cajas
 Las unidades de medida en CSS de tipo absoluto hacen referencia a las unidades que no cambian, esas que en todos lo contextos son iguales. En CSS, existen siete unidades de medida absolutas, te las presentamos a continuación:
 
 **in:** hace referencia a las pulgadas, que son iguales a 2.54cm.
+
 **cm:** se refiere a los centímetros.
+
 **mm:** hace referencia a los milímetros.
+
 **q:** se refiere a un cuarto de la unidad mm. 1q=0.248mm.
+
 **pt:** un punto es igual a 1/72 de una pulgada o 0.35mm.
+
 **pc:** una pica es igual a 12 puntos, o sea 4.23mm.
+
 **px:** esta etiqueta se refiere a los píxeles que, aunque son absolutos (0.26mm), también son relativos a la densidad de la pantalla.
 
 - **Unidades de medida relativas**
